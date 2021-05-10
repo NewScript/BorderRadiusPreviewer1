@@ -1,0 +1,7 @@
+Visualizador da propriedade border-radius do css
+
+- O usuário verá a princípio um quadro afetado pela propriedade border-radius
+- O usuário poderá alterar os valores dos 4 border-radius padrão
+- O usuário poderá copiar o css resultante
+
+- O usuário poderá alterar todos os 8 aspectos do border-radius
